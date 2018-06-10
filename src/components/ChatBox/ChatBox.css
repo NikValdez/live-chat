@@ -1,0 +1,11 @@
+.greetings {
+  margin-top: 90px;
+  text-align: center;
+}
+
+.form-control {
+  width: 75%;
+  position: fixed;
+  bottom: 0;
+  margin: 0 auto;
+}
